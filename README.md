@@ -4,6 +4,12 @@
 
 *& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
 
+### Fabled
+
+Icon | Character | Text
+--- | --- | ---
+![Fibbin](https://wiki.bloodontheclocktower.com/images/2/2e/Icon_fibbin.png) | **Fibbin** | Once per game, 1 good player might get incorrect information.
+
 ### Townsfolk
 
 Icon | Character | Text
