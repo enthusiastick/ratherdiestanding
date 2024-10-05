@@ -18,6 +18,7 @@ Icon | Character | Text
 ![Clockmaker](https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png) | **Clockmaker** | You start knowing how many steps from the Demon to its nearest Minion.
 ![Librarian](https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png) | **Librarian** | You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)
 ![Pixie](https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png) | **Pixie** | You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.
+![Sailor](https://wiki.bloodontheclocktower.com/images/1/16/Icon_sailor.png) | **Sailor** | Each night, choose an alive player: either you or they are drunk until dusk. You can't die.
 ![Undertaker](https://wiki.bloodontheclocktower.com/images/0/05/Icon_undertaker.png) | **Undertaker** | Each night\*, you learn which character died by execution today.
 ![Gossip](https://wiki.bloodontheclocktower.com/images/c/c7/Icon_gossip.png) | **Gossip** | Each day, you may make a public statement. Tonight, if it was true, a player dies.
 ![Nightwatchman](https://wiki.bloodontheclocktower.com/images/f/f0/Icon_nightwatchman.png) | **Nightwatchman** | Once per game, at night, choose a player: they learn who you are.
@@ -25,7 +26,6 @@ Icon | Character | Text
 ![Fisherman](https://wiki.bloodontheclocktower.com/images/1/19/Icon_fisherman.png) | **Fisherman** | Once per game, during the day, visit the Storyteller for some advice to help your team win.
 ![Juggler](https://wiki.bloodontheclocktower.com/images/4/42/Icon_juggler.png) | **Juggler** | On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.
 ![Amnesiac](https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png) | **Amnesiac** | You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.
-![Pacifist](https://wiki.bloodontheclocktower.com/images/5/5d/Icon_pacifist.png) | **Pacifist** | Executed good players might not die.
 ![Minstrel](https://wiki.bloodontheclocktower.com/images/2/24/Icon_minstrel.png) | **Minstrel** | When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.
 
 ### Outsider
@@ -33,9 +33,9 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Drunk](https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png) | **Drunk** | You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.
+![Sweetheart](https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png) | **Sweetheart** | When you die, 1 player is drunk from now on.
 ![Moonchild](https://wiki.bloodontheclocktower.com/images/d/dc/Icon_moonchild.png) | **Moonchild** | When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.
 ![Barber](https://wiki.bloodontheclocktower.com/images/1/16/Icon_barber.png) | **Barber** | If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.
-![Zealot](https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png) | **Zealot** | If there are 5 or more players alive, you must vote for every nomination.
 
 ### Minion
 
